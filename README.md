@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://xan9266.github.io/Advice-Generator-App/)
 
 ## My process
 
