@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/advice_generator_app.jpeg)
 
 ### Links
 
